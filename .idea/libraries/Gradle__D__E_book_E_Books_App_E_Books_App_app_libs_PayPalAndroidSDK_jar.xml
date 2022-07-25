@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: D./E_book/E-Books App/E-Books App/app/libs/PayPalAndroidSDK.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/PayPalAndroidSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

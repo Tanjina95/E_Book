@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "668109253421",
+    "firebase_url": "https://foodbot-15055.firebaseio.com",
+    "project_id": "foodbot-15055",
+    "storage_bucket": "foodbot-15055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668109253421:android:1b7d0d0e5e862bf62c41a4",
+        "android_client_info": {
+          "package_name": "com.divinetechs.ebooksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668109253421-3fp3fcbu5vf4irf3ve8qu1rec936fcb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAuz21eaA7cGjdMgkoLzcLvZ5IlLmGok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668109253421-3fp3fcbu5vf4irf3ve8qu1rec936fcb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668109253421:android:c72195845ba16a2f",
+        "android_client_info": {
+          "package_name": "com.example.hridoy.foodbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668109253421-3fp3fcbu5vf4irf3ve8qu1rec936fcb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAuz21eaA7cGjdMgkoLzcLvZ5IlLmGok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668109253421-3fp3fcbu5vf4irf3ve8qu1rec936fcb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668109253421:android:d7d0d809227679772c41a4",
+        "android_client_info": {
+          "package_name": "com.kidslearning.kidsplay.kidsgames.kidseducation.preschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668109253421-3fp3fcbu5vf4irf3ve8qu1rec936fcb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAuz21eaA7cGjdMgkoLzcLvZ5IlLmGok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668109253421-3fp3fcbu5vf4irf3ve8qu1rec936fcb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

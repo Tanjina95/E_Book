@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.folioreader:folioreader:0.5.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c10e7ba41d69974fc167ae9a1aeedbc4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c10e7ba41d69974fc167ae9a1aeedbc4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c10e7ba41d69974fc167ae9a1aeedbc4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
